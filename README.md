@@ -3,7 +3,7 @@ Simple pyhon script that on run takes all files/directories from Desktop and pac
 ###### How to build .exe file?
 `pip install pyinstaller`
 
-`pyinstaller .\main.py -c --onefile -i .\storage.ico`
+`pyinstaller .\src\main.py -c --onefile -i .\pic\storage.ico`
 
 ###### Usage:
 ```
